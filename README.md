@@ -140,21 +140,21 @@ This is a remarkably interesting project and many people have pursued this as th
 
 ### Disclaimer: This research should not be used to make any financial decision and it is purely academic in nature. 
 
-## References
-Dividend. (n.d.). Retrieved from en.wikipedia.org: https://en.wikipedia.org/wiki/Dividend
-dividendyield. (n.d.). Retrieved from www.investopedia.com: https://www.investopedia.com/terms/d/dividendyield.asp
-ebitda. (n.d.). Retrieved from www.investopedia.com: https://www.investopedia.com/terms/e/ebitda.asp
-Efficient-market_hypothesis. (n.d.). Retrieved from en.wikipedia.org: https://en.wikipedia.org/wiki/Efficient-market_hypothesis
-eps. (n.d.). Retrieved from www.investopedia.com: https://www.investopedia.com/terms/e/eps.asp
-Financial_economics. (n.d.). Retrieved from en.wikipedia.org: https://en.wikipedia.org/wiki/Financial_economics
-marketcapitalization. (n.d.). Retrieved from www.investopedia.com: https://www.investopedia.com/terms/m/marketcapitalization.asp
-price-earningsratio. (n.d.). Retrieved from www.investopedia.com: https://www.investopedia.com/terms/p/price-earningsratio.asp
-responsible-ai. (n.d.). Retrieved from www.microsoft.com: https://www.microsoft.com/en-us/ai/responsible-ai
-Share_(finance). (n.d.). Retrieved from en.wikipedia.org: https://en.wikipedia.org/wiki/Share_(finance)
-Share_price. (n.d.). Retrieved from en.wikipedia.org: https://en.wikipedia.org/wiki/Share_price
-sp500. (n.d.). Retrieved from www.investopedia.com: https://www.investopedia.com/terms/s/sp500.asp
-sp-500. (n.d.). Retrieved from www.spglobal.com: https://www.spglobal.com/spdji/en/indices/equity/sp-500/#overview
-Stock. (n.d.). Retrieved from en.wikipedia.org: https://en.wikipedia.org/wiki/Stock
-Stock_market_prediction. (n.d.). Retrieved from en.wikipedia.org: https://en.wikipedia.org/wiki/Stock_market_prediction
-why-invest-in-stocks. (n.d.). Retrieved from www.fool.com: https://www.fool.com/investing/how-to-invest/stocks/why-invest-in-stocks/
+## References  
+Dividend. (n.d.). Retrieved from en.wikipedia.org: https://en.wikipedia.org/wiki/Dividend  
+dividendyield. (n.d.). Retrieved from www.investopedia.com: https://www.investopedia.com/terms/d/dividendyield.asp  
+ebitda. (n.d.). Retrieved from www.investopedia.com: https://www.investopedia.com/terms/e/ebitda.asp  
+Efficient-market_hypothesis. (n.d.). Retrieved from en.wikipedia.org: https://en.wikipedia.org/wiki/Efficient-market_hypothesis  
+eps. (n.d.). Retrieved from www.investopedia.com: https://www.investopedia.com/terms/e/eps.asp  
+Financial_economics. (n.d.). Retrieved from en.wikipedia.org: https://en.wikipedia.org/wiki/Financial_economics  
+marketcapitalization. (n.d.). Retrieved from www.investopedia.com: https://www.investopedia.com/terms/m/marketcapitalization.asp  
+price-earningsratio. (n.d.). Retrieved from www.investopedia.com: https://www.investopedia.com/terms/p/price-earningsratio.asp  
+responsible-ai. (n.d.). Retrieved from www.microsoft.com: https://www.microsoft.com/en-us/ai/responsible-ai  
+Share_(finance). (n.d.). Retrieved from en.wikipedia.org: https://en.wikipedia.org/wiki/Share_(finance)  
+Share_price. (n.d.). Retrieved from en.wikipedia.org: https://en.wikipedia.org/wiki/Share_price  
+sp500. (n.d.). Retrieved from www.investopedia.com: https://www.investopedia.com/terms/s/sp500.asp  
+sp-500. (n.d.). Retrieved from www.spglobal.com: https://www.spglobal.com/spdji/en/indices/equity/sp-500/#overview  
+Stock. (n.d.). Retrieved from en.wikipedia.org: https://en.wikipedia.org/wiki/Stock  
+Stock_market_prediction. (n.d.). Retrieved from en.wikipedia.org: https://en.wikipedia.org/wiki/Stock_market_prediction  
+why-invest-in-stocks. (n.d.). Retrieved from www.fool.com: https://www.fool.com/investing/how-to-invest/stocks/why-invest-in-stocks/  
 
