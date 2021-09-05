@@ -11,7 +11,7 @@ urlFragment: "https://github.com/RajdeepBiswas/Stock_Market_Prediction_with_SnP5
 ---
 
 # STOCK MARKET PREDICTION WITH S&P 500 DATA
-
+![stock-exchange](images/stock-exchange.jpg)
 
 ## Domain
 
