@@ -99,13 +99,34 @@ Before going into the methods, I would like to call out that the research will h
 * Transparent - AI systems must be transparent and understandable.
 * Ethical - AI must assist humanity and be designed for intelligent privacy.
 
-The S&P 500 and company datasets are extraordinarily rich in nature and a lot of interesting data science and exploratory  data analytics analysis can be done using it. For this project I plan to address the following topics before diving into the prediction section.:  
-* Raw data extraction for the file, API based and web datasets. Let us call this Bronze Layer.
-* Data transformation using python from Raw to Processed stage. We will call this Silver Layer.
-* Finally store the processed data and optionally flatten it by joining using standard taxonomy in a serving layer. We will call this Gold Layer since this will be the single source of truth for the applications and the visualizations. 
-* In depth EDA across multiple facets of the S&P 500 datasets
-* Visualizations on the datasets showing various aspects of the data
-* Find answers for the research questions using the below mentioned methodologies.
+The S&P 500 and company datasets are extraordinarily rich in nature and a lot of interesting data science and exploratory  data analytics analysis can be done using it. In this project the following methodology is followed:
+1.	Raw data is extracted using API calls using Python notebooks and stored in the bronze layer of the data lake.
+2.	Data transformation and cleansing happened using python from Raw to Processed stage and data is stored in the silver layer.
+3.	Finally, the processed data is  flattened by joining using standard taxonomy in a serving layer. This is the gold layer of the data lake and will be used in the applications and the visualizations. 
+4.	After the data is processed, we started the analysis by calculating trading indicators. These are nothing but mathematical calculations which can help traders identify certain signals and trends within the market. By no means we exhaustive since there are hundreds of trading indicators.
+5.	Next, we plotted the classic interactive OHLC chart — a chart with bars Open, High, Low, Close prices, that we are used to seeing on trading platforms.  
+6.	After the visualization section we moved on to the Prediction section which consisted of the following steps:  
+	Prep the data  
+	Train Test Split  
+	Baseline Model Creation   
+	Regression Model creation  
+	Train the model  
+	Evaluate the model  
+Please note the model was simplistic in nature and more experimentation and sophisticated models are needed to better support this project and avoid overfitting problems.   
+7.	This is the most exciting step of the project. And this is all about operationalizing the model and generate the profit via a simple strategy.  
+	Strategy: If our model predicts a higher closing value than the opening value we make a trade for a single share on that day—buying at market open and selling just before market close.  
+	Assumptions  
+	Results of Simulated Investment  
+8.	This is the correct time to do fundamental analysis which evaluates a company's past performance as well as the credibility of its accounts. Following steps were performed for the fundamental analysis:  
+	Prep the data  
+	Top 10 value stocks in S&P 500?  
+	Top 10 growth stocks in S&P 500?  
+	Top 10 income stocks in S&P 500?  
+9.	Create an AutoML timeseries forecast model.   
+	Get the performance metrics.  
+	Get the model explanation.  
+10.	Models are deployed in Azure Container Instance (container-instances) and exposed in REST endpoints which can be used in any programming language. It can also scale out as required without any infrastructure maintenance overhead. Note we can also deploy it in Azure Kubernetes Service (kubernetes-service), we just avoided it since we do not need spend extra money for dedicated containers for this scenario.  
+11.	Client scripts written in python to call the REST endpoint with authentication (consume-web-service)and get back the results. This is how we will operationalize the model. In a real-world environment this REST APIs will be embedded in an application or dashboard generating near real time BUY/SELL alerts.
 
 Prediction methodologies fall into three broad categories and often overlap. They are fundamental analysis, technical analysis (charting) and machine learning based methods.  
 
